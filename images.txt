@@ -1,2 +1,2 @@
 #mysql:8.0
-nacos-server:v2.2.0
+nacos/nacos-server:v2.2.0
