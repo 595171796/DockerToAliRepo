@@ -3,4 +3,4 @@
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-peer-finder-plugin
 #jenkins/jenkins:jdk17
-elasticsearch/elasticsearch:7.17.3
+elastic/elasticsearch:7.17.3
