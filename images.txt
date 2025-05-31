@@ -4,4 +4,5 @@
 #nacos/nacos-peer-finder-plugin
 #jenkins/jenkins:jdk17
 #elastic/elasticsearch:7.17.3
-mongo
+#mongo
+redis
